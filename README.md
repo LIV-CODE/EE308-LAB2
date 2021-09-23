@@ -41,19 +41,19 @@
 
 ### main structure
 
-<img src="C:\Users\22478\AppData\Roaming\Typora\typora-user-images\image-20210923195049306.png" alt="image-20210923195049306" style="zoom:80%;" />
+<img src="https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923195049306.png" alt="image-20210923195049306" style="zoom:80%;" />
 
 ### keyword number
 
-<img src="C:\Users\22478\AppData\Roaming\Typora\typora-user-images\image-20210923201556987.png" alt="image-20210923201556987" style="zoom:80%;" />
+<img src="https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923201556987.png" alt="image-20210923201556987" style="zoom:80%;" />
 
 ### switch_case number
 
-<img src="C:\Users\22478\AppData\Roaming\Typora\typora-user-images\image-20210923203146632.png" alt="image-20210923203146632" style="zoom:80%;" />
+<img src="https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923203146632.png" alt="image-20210923203146632" style="zoom:80%;" />
 
 ### if else & if else_if else num
 
-<img src="C:\Users\22478\AppData\Roaming\Typora\typora-user-images\image-20210923204437705.png" alt="image-20210923204437705" style="zoom:80%;" />
+<img src="https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923204437705.png" alt="image-20210923204437705" style="zoom:80%;" />
 
 ## Code description
 
@@ -244,7 +244,7 @@ coverage run keyword.py arg1 arg2
 coverage html
 ```
 
-![image-20210923215820319](C:\Users\22478\AppData\Roaming\Typora\typora-user-images\image-20210923215820319.png)
+![image-20210923215820319](https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923215820319.png)
 
 ## Performance test
 
@@ -254,11 +254,11 @@ Line_profiler is used for line-by-line analysis (which can be installed using PI
 kernprof -l -v
 ```
 
-<img src="LIV-CODE\EE308-LAB2\blob\main\image\image-20210923221521447.png" alt="image-20210923221521447" style="zoom:80%;" />
+<img src="https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923221521447.png" alt="image-20210923221521447" style="zoom:80%;" />
 
-<img src="C:\Users\22478\AppData\Roaming\Typora\typora-user-images\image-20210923221449312.png" alt="image-20210923221449312" style="zoom:80%;" />
+<img src="https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923221449312.png" alt="image-20210923221449312" style="zoom:80%;" />
 
-<img src="C:\Users\22478\AppData\Roaming\Typora\typora-user-images\image-20210923221613866.png" alt="image-20210923221613866" style="zoom:80%;" />
+<img src="https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923221613866.png" alt="image-20210923221613866" style="zoom:80%;" />
 
 ## Summary
 
@@ -268,4 +268,4 @@ kernprof -l -v
 
 ## Appendix
 
-<img src="C:\Users\22478\AppData\Roaming\Typora\typora-user-images\image-20210923222906071.png" alt="image-20210923222906071" style="zoom:80%;" />
+<img src="https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923222906071.png" alt="image-20210923222906071" style="zoom:80%;" />
