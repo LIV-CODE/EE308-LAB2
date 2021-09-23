@@ -28,7 +28,7 @@
 
 ​		I chose to use **vscode** as the compiler because it is smart enough to work with a variety of languages. I installed the git plug-in in vscode for code version control directly within the compiler. Each time you commit a change, you simply add a comment and commit it to the local library and then push it to the remote branch.
 
-<img src="C:\Users\22478\AppData\Roaming\Typora\typora-user-images\image-20210923190118931.png" alt="image-20210923190118931" style="zoom: 33%;" />
+![image]https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923190118931.png
 
 #### Python with Anaconda3
 
