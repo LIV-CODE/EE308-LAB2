@@ -255,7 +255,7 @@ Line_profiler is used for line-by-line analysis (which can be installed using PI
 kernprof -l -v
 ```
 
-<img src="C:\Users\22478\AppData\Roaming\Typora\typora-user-images\image-20210923221521447.png" alt="image-20210923221521447" style="zoom:80%;" />
+<img src="LIV-CODE\EE308-LAB2\blob\main\image\image-20210923221521447.png" alt="image-20210923221521447" style="zoom:80%;" />
 
 <img src="C:\Users\22478\AppData\Roaming\Typora\typora-user-images\image-20210923221449312.png" alt="image-20210923221449312" style="zoom:80%;" />
 
