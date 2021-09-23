@@ -8,8 +8,7 @@
 ​		**GitHub** is the **world's largest remote repository for software**. It is a hosting platform for open source and private software projects, using **Git** for **distributed version control**. Simply put, GitHub is one of the places where programmers and organizations publish code, and where programmers from all over the world upload their code to share it.
 
 > Here's a tutorial that's easy to understand: [Git和GitHub使用教程 - 简书 (jianshu.com)](https://www.jianshu.com/p/296d22275cdd)
-
-​                           <img src="https://upload-images.jianshu.io/upload_images/4064394-eed044759e8ad893.png?imageMogr2/auto-orient/strip|imageView2/2/w/823/format/webp" alt="img" style="zoom:25%;" /><img src="https://upload-images.jianshu.io/upload_images/4064394-badc6aa178c1173b.png?imageMogr2/auto-orient/strip|imageView2/2/w/509/format/webp" alt="img" style="zoom:25%;" />     
+  
 
 
 
@@ -28,7 +27,7 @@
 
 ​		I chose to use **vscode** as the compiler because it is smart enough to work with a variety of languages. I installed the git plug-in in vscode for code version control directly within the compiler. Each time you commit a change, you simply add a comment and commit it to the local library and then push it to the remote branch.
 
-![image](https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923190118931.png)
+<img src="https://github.com/LIV-CODE/EE308-LAB2/blob/main/image/image-20210923190118931.png" alt="image-20210923190118931" style="zoom:80%;" />
 
 #### Python with Anaconda3
 
