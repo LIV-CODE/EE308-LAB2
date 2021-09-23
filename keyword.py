@@ -2,9 +2,7 @@
 # FZU:831901313
 # MU:19104979
 # Function: C++ code for keyword and structure recognition.
-
 import re
-from typing import TextIO
 
 # Keyword dictionary
 dict = {'auto':0, 'break':0, 'case':0, 'char':0, 'const':0, 'continue':0, 'default':0, 'do':0, 
@@ -120,12 +118,12 @@ def replace_space(text):
 # The regular expression matches all the required values and returns a list
 reg = r'\b[a-zA-Z]+\b'
 
-# path = input("Please enter your code address: ")
+path = input("Please enter your code address: ")
 level = int(input("Please input the level you want(1,2,3,4)"))
 
 #Read the code
-# with open(path, encoding='utf8') as f:
-with open('key.c', encoding='utf8') as f:
+with open(path, encoding='utf8') as f:
+# with open('key.c', encoding='utf8') as f:
 	codeList=[]
 	for line in f:
 		codeList.append(line)
